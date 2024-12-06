@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 20 \u0633\u064A \u0634\u0627\u0631\u0628 \u0645\u062A\u0642\u062F\u0645\\Advance C sharp level 2\\How To Send Data Back  From Form2 to Form1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCAD7C1-ED53-4FFD-ACEF-95DB31BDC5A5}|How To Send Data Back  From Form2 to Form1.csproj|f:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 20 \u0633\u064A \u0634\u0627\u0631\u0628 \u0645\u062A\u0642\u062F\u0645\\advance c sharp level 2\\how to send data back  from form2 to form1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCAD7C1-ED53-4FFD-ACEF-95DB31BDC5A5}|How To Send Data Back  From Form2 to Form1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCAD7C1-ED53-4FFD-ACEF-95DB31BDC5A5}|How To Send Data Back  From Form2 to Form1.csproj|f:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 20 \u0633\u064A \u0634\u0627\u0631\u0628 \u0645\u062A\u0642\u062F\u0645\\advance c sharp level 2\\how to send data back  from form2 to form1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BCAD7C1-ED53-4FFD-ACEF-95DB31BDC5A5}|How To Send Data Back  From Form2 to Form1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 20 \u0633\u064A \u0634\u0627\u0631\u0628 \u0645\u062A\u0642\u062F\u0645\\Advance C sharp level 2\\How To Send Data Back  From Form2 to Form1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 20 \u0633\u064A \u0634\u0627\u0631\u0628 \u0645\u062A\u0642\u062F\u0645\\Advance C sharp level 2\\How To Send Data Back  From Form2 to Form1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAASwBgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:09:01.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 20 \u0633\u064A \u0634\u0627\u0631\u0628 \u0645\u062A\u0642\u062F\u0645\\Advance C sharp level 2\\How To Send Data Back  From Form2 to Form1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\\u062A\u0627\u0633\u064A\u0633 \u0627\u0628\u0648 \u0647\u062F\u0647\u0648\u062F\\\u0643\u0648\u0631\u0633 \u0631\u0642\u0645 20 \u0633\u064A \u0634\u0627\u0631\u0628 \u0645\u062A\u0642\u062F\u0645\\Advance C sharp level 2\\How To Send Data Back  From Form2 to Form1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T07:52:48.568Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data Back  From Form2 to Form1\bin\Debug\How To Send Data Back  From Form2 to Form1.exe.config
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data Back  From Form2 to Form1\bin\Debug\How To Send Data Back  From Form2 to Form1.exe
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data Back  From Form2 to Form1\bin\Debug\How To Send Data Back  From Form2 to Form1.pdb
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data Back  From Form2 to Form1\obj\Debug\How To Send Data Back  From Form2 to Form1.csproj.AssemblyReference.cache
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data Back  From Form2 to Form1\obj\Debug\How_To_Send_Data_Back__From_Form2_to_Form1.Properties.Resources.resources
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data Back  From Form2 to Form1\obj\Debug\How To Send Data Back  From Form2 to Form1.csproj.GenerateResource.cache
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data Back  From Form2 to Form1\obj\Debug\How To Send Data Back  From Form2 to Form1.csproj.CoreCompileInputs.cache
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data Back  From Form2 to Form1\obj\Debug\How To Send Data Back  From Form2 to Form1.exe
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data Back  From Form2 to Form1\obj\Debug\How To Send Data Back  From Form2 to Form1.pdb
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data Back  From Form2 to Form1\obj\Debug\How_To_Send_Data_Back__From_Form2_to_Form1.Form1.resources
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data Back  From Form2 to Form1\obj\Debug\How_To_Send_Data_Back__From_Form2_to_Form1.Form2.resources

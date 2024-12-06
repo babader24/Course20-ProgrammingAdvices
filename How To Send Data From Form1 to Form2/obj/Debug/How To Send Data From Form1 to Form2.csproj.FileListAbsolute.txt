@@ -1,0 +1,11 @@
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data From Form1 to Form2\bin\Debug\How To Send Data From Form1 to Form2.exe.config
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data From Form1 to Form2\bin\Debug\How To Send Data From Form1 to Form2.exe
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data From Form1 to Form2\bin\Debug\How To Send Data From Form1 to Form2.pdb
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data From Form1 to Form2\obj\Debug\How To Send Data From Form1 to Form2.csproj.AssemblyReference.cache
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data From Form1 to Form2\obj\Debug\How_To_Send_Data_From_Form1_to_Form2.Form1.resources
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data From Form1 to Form2\obj\Debug\How_To_Send_Data_From_Form1_to_Form2.Form2.resources
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data From Form1 to Form2\obj\Debug\How_To_Send_Data_From_Form1_to_Form2.Properties.Resources.resources
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data From Form1 to Form2\obj\Debug\How To Send Data From Form1 to Form2.csproj.GenerateResource.cache
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data From Form1 to Form2\obj\Debug\How To Send Data From Form1 to Form2.csproj.CoreCompileInputs.cache
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data From Form1 to Form2\obj\Debug\How To Send Data From Form1 to Form2.exe
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Advance C sharp level 2\How To Send Data From Form1 to Form2\obj\Debug\How To Send Data From Form1 to Form2.pdb
