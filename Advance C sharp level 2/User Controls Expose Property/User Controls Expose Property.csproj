@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1F75D56C-962C-459A-8B0E-7480C949CA22}</ProjectGuid>
+    <ProjectGuid>{59AAF432-4F61-43F9-8F8E-89AF59B1338F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>User_Controls</RootNamespace>
-    <AssemblyName>User Controls</AssemblyName>
+    <RootNamespace>User_Controls_Expose_Property</RootNamespace>
+    <AssemblyName>User Controls Expose Property</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,9 +33,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DVLD">
-      <HintPath>..\..\..\..\كورس رقم 19 مشروع رخص السيارات\DVLD\bin\Debug\DVLD.exe</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -57,11 +54,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ucCalc.cs">
+    <Compile Include="ucSimpleCalc.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="ucCalc.Designer.cs">
-      <DependentUpon>ucCalc.cs</DependentUpon>
+    <Compile Include="ucSimpleCalc.Designer.cs">
+      <DependentUpon>ucSimpleCalc.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -75,8 +72,8 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="ucCalc.resx">
-      <DependentUpon>ucCalc.cs</DependentUpon>
+    <EmbeddedResource Include="ucSimpleCalc.resx">
+      <DependentUpon>ucSimpleCalc.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

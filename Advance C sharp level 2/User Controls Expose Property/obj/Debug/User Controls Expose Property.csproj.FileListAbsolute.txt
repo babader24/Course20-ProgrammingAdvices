@@ -1,0 +1,11 @@
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls Expose Property\bin\Debug\User Controls Expose Property.exe.config
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls Expose Property\bin\Debug\User Controls Expose Property.exe
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls Expose Property\bin\Debug\User Controls Expose Property.pdb
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls Expose Property\obj\Debug\User Controls Expose Property.csproj.AssemblyReference.cache
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls Expose Property\obj\Debug\User_Controls_Expose_Property.Form1.resources
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls Expose Property\obj\Debug\User_Controls_Expose_Property.Properties.Resources.resources
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls Expose Property\obj\Debug\User_Controls_Expose_Property.ucSimpleCalc.resources
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls Expose Property\obj\Debug\User Controls Expose Property.csproj.GenerateResource.cache
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls Expose Property\obj\Debug\User Controls Expose Property.csproj.CoreCompileInputs.cache
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls Expose Property\obj\Debug\User Controls Expose Property.exe
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls Expose Property\obj\Debug\User Controls Expose Property.pdb

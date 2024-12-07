@@ -1,0 +1,11 @@
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\Simple Event With Parameter\bin\Debug\Simple Event With Parameter.exe.config
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\Simple Event With Parameter\bin\Debug\Simple Event With Parameter.exe
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\Simple Event With Parameter\bin\Debug\Simple Event With Parameter.pdb
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\Simple Event With Parameter\obj\Debug\Simple Event With Parameter.csproj.AssemblyReference.cache
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\Simple Event With Parameter\obj\Debug\Simple_Event_With_Parameter.Properties.Resources.resources
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\Simple Event With Parameter\obj\Debug\Simple_Event_With_Parameter.ucCalcWithEvent.resources
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\Simple Event With Parameter\obj\Debug\Simple Event With Parameter.csproj.GenerateResource.cache
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\Simple Event With Parameter\obj\Debug\Simple Event With Parameter.csproj.CoreCompileInputs.cache
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\Simple Event With Parameter\obj\Debug\Simple Event With Parameter.exe
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\Simple Event With Parameter\obj\Debug\Simple Event With Parameter.pdb
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\Simple Event With Parameter\obj\Debug\Simple_Event_With_Parameter.Form1.resources

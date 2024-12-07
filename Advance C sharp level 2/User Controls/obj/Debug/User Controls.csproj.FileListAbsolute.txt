@@ -1,0 +1,19 @@
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\bin\Debug\User Controls.exe.config
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\bin\Debug\User Controls.exe
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\bin\Debug\User Controls.pdb
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\obj\Debug\User Controls.csproj.AssemblyReference.cache
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\obj\Debug\User_Controls.Properties.Resources.resources
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\obj\Debug\User_Controls.ucCalc.resources
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\obj\Debug\User Controls.csproj.GenerateResource.cache
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\obj\Debug\User Controls.csproj.CoreCompileInputs.cache
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\obj\Debug\User Controls.exe
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\obj\Debug\User Controls.pdb
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\bin\Debug\DVLD.exe
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\bin\Debug\DVLD-BusneissLayer.dll
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\bin\Debug\DVLD-DataAccessLayer.dll
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\bin\Debug\DVLD.pdb
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\bin\Debug\DVLD.exe.config
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\bin\Debug\DVLD-BusneissLayer.pdb
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\bin\Debug\DVLD-DataAccessLayer.pdb
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\obj\Debug\User_Controls.Form1.resources
+F:\تاسيس ابو هدهود\كورس رقم 20 سي شارب متقدم\Course20-ProgrammingAdvices\Advance C sharp level 2\User Controls\obj\Debug\User Con.52C5B1A6.Up2Date

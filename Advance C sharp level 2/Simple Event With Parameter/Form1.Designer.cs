@@ -1,4 +1,4 @@
-﻿namespace User_Controls
+﻿namespace Simple_Event_With_Parameter
 {
     partial class Form1
     {
@@ -28,22 +28,23 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.ucCalc1 = new User_Controls.ucCalc();
+            this.ucCalcWithEvent1 = new Simple_Event_With_Parameter.ucCalcWithEvent();
             this.SuspendLayout();
             // 
-            // ucCalc1
+            // ucCalcWithEvent1
             // 
-            this.ucCalc1.Location = new System.Drawing.Point(25, 52);
-            this.ucCalc1.Name = "ucCalc1";
-            this.ucCalc1.Size = new System.Drawing.Size(657, 167);
-            this.ucCalc1.TabIndex = 0;
+            this.ucCalcWithEvent1.Location = new System.Drawing.Point(39, 67);
+            this.ucCalcWithEvent1.Name = "ucCalcWithEvent1";
+            this.ucCalcWithEvent1.Size = new System.Drawing.Size(593, 133);
+            this.ucCalcWithEvent1.TabIndex = 0;
+            this.ucCalcWithEvent1.OnCalculationComplete += new System.Action<int>(this.ucCalcWithEvent1_OnCalculationComplete);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.ucCalc1);
+            this.Controls.Add(this.ucCalcWithEvent1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -52,7 +53,7 @@
 
         #endregion
 
-        private ucCalc ucCalc1;
+        private ucCalcWithEvent ucCalcWithEvent1;
     }
 }
 
